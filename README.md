@@ -1,6 +1,8 @@
 # Todo-List
 This is a simple project that was done using Django and React to practice fullstack development.
 
+![TodoList](https://ibb.co/1rw6JyS)
+
 ## Tools
 ### Frontend
   - React
