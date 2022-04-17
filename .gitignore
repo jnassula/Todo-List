@@ -8,3 +8,4 @@ staticfiles/
 
 
 /frontend/node_modules
+.yarn
